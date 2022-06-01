@@ -25,11 +25,12 @@ Assumptions for Markov Chain :
 <br/>
 
 
+## Developed by
+## Name: Eluru Ganesh
+# Register Number: 212220230016
 # Program
+
 ```python
-# Developed by
-# Name: SHAIK KHADAR BASHA
-# Register Number: 212220230045
 
 import numpy as np
 P0=[0.3,0.2,0.5]
