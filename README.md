@@ -27,7 +27,7 @@ Assumptions for Markov Chain :
 
 ## Developed by
 ## Name: Eluru Ganesh
-# Register Number: 212220230016
+## Register Number: 212220230016
 # Program
 
 ```python
